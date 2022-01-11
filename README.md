@@ -1,4 +1,4 @@
-# WordUp! Nintendo DS word puzzle game
+# WordUp! Nintendo DS, A Word Puzzle Game
 ![Game Website](https://raw.githubusercontent.com/superpanic/WordUp/master/Web/wordup_download.gif)  
   
 ![Game box art](https://raw.githubusercontent.com/superpanic/WordUp/master/Artwork/wordup_box_art.jpg)  
